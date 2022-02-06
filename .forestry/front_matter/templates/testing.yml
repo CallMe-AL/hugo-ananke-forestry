@@ -1,4 +1,8 @@
 ---
 label: Testing
 hide_body: false
-fields: []
+fields:
+- name: label
+  type: image_gallery
+  config: {}
+  label: Label
