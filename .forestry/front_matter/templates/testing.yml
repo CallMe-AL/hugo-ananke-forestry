@@ -1,8 +1,0 @@
----
-label: Testing
-hide_body: false
-fields:
-- name: label
-  type: image_gallery
-  config: {}
-  label: Label
